@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Juanda  
 
-<!--
-**IJuanDa/IJuanDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about programming and constantly developing my skills.  
+📚 Currently improving my **English** to strengthen my global communication.  
+🐍 Focused on learning and building projects with **Python**.  
+🤖 Strong interest in **Artificial Intelligence** and its applications.  
+🎓 Enrolled in **Udemy courses** to expand my knowledge in programming and technology.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+- 🐍 Python  
+- 🌐 HTML, CSS, JavaScript  
+- ⚙️ Git & GitHub  
+
+---
+
+### 📊 GitHub Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=IJuanDa&show_icons=true&theme=radical)
